@@ -1,0 +1,2 @@
+rootProject.name = "MLKitLab"
+include ':app'
